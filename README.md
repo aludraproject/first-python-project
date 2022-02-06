@@ -1,1 +1,3 @@
 # first-python-project
+Hello..., this is first my project with python.
+let's start to work......
